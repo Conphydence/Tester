@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lilfraggy/luna.s23s/main/lilscripty", true))()
